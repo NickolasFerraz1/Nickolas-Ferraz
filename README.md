@@ -20,9 +20,9 @@ Recentemente concluí minha graduação em **IA na FIAP**, onde aprofundei meus 
 ### 🌟 Projetos em Destaque
 
 * **[RAG para a B3](https://github.com/marcosPaolucci/B3):** Chatbot inteligente com arquitetura de Recuperação Aumentada por Geração para análise de dados financeiros.
-* **[Análise de Churn]():** Modelo preditivo para retenção de clientes utilizando Machine Learning e análise estatística.
+* **[Análise de Churn](https://colab.research.google.com/drive/1jsP51fHMYQItwucAinTnVtSDKBJMl3q5#scrollTo=054UNBSFfTJA):** Modelo preditivo para retenção de clientes utilizando Machine Learning e análise estatística.
 * **[Bot Telegram + DialogFlow](https://github.com/NickolasFerraz1/dialog-flow-webhook):** Integração funcional via webhooks para atendimento automatizado.
-* **[Visão Computacional com Arduino]():** Reconhecimento de objetos e faces aplicado ao hardware.
+* **[Modelo de Machine Learning + Streamlit](https://github.com/NickolasFerraz1/GS-Front):** Simulador de Intensidade de Incêndios Florestais.
 
 ---
 
@@ -31,11 +31,11 @@ Recentemente concluí minha graduação em **IA na FIAP**, onde aprofundei meus 
 Além de estar sempre mergulhado em artigos técnicos e cursos na **Alura**, acredito no equilíbrio entre mente e corpo:
 * 🏃 **Corredor:** Atualmente batendo a marca dos 5km e evoluindo.
 * ⚽ **Futebol:** Organizador nato de partidas entre amigos.
-* 🎮 **CS2 Player:** Aplicando estratégia e reflexos no Counter-Strike.
+* 🏋️‍♂️ **Academia:** Treinando diariamente buscando evolução constante.
 
 ---
 
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickolas-ferraz/)
-[![Portfólio Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](LINK_DO_SEU_APP)
+
